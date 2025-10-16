@@ -1,4 +1,4 @@
-# This folder is related to the experimental, phase field, informatics, and neural network-based Design of Corrosion-Resistant Super Duplex Stainless Steel (UNS S32750 Grade 2507) fabricated via Laser Powder Bed Fusion. 
+# This folder is related to the experimental, phase field, informatics, and neural network-based design of Corrosion-Resistant Super Duplex Stainless Steel (UNS S32750 Grade 2507) fabricated via Laser Powder Bed Fusion. 
 
 This repo hosts CPP curves and code for samples: AS, SR400/1h, SR450/1h, SR500/1h, SR550/1h, SA1100/15min.
 
