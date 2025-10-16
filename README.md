@@ -15,7 +15,7 @@ This repo hosts CPP curves and code for samples: AS, SR400/1h, SR450/1h, SR500/1
 | SR400/1h | ![SR400/1h](figures/CPP_SR400_1h.png) |
 
 
-## Full documentation / Associated study: 
+# Full documentation / Associated study: 
 The complete documentation for the methodology and context is provided in:
 
 **Integrating experiments and phase field method through informatics for tailored corrosion performance of additively manufactured steel microstructures.**  
@@ -24,5 +24,4 @@ Sachin Poudel, Upadesh Subedi, Rubi Thapa, Łukasz Reimann, Augustine Nana Sekyi
 
 
 
-https://doi.org/10.26434/chemrxiv-2025-sk6h5
 
