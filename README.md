@@ -41,19 +41,7 @@ The complete documentation for the methodology and context is provided in:
 **Integrating experiments and phase field method through informatics for tailored corrosion performance of additively manufactured steel microstructures.**  
 Mengistu Dagnaw, Sachin Poudel, Upadesh Subedi, Rubi Thapa, Łukasz Reimann, Augustine Nana Sekyi Appiah, Paweł M. Nuckowski, Mariusz Król, Zbigniew Brytan, Nele Moelans, Anil Kunwar.
 
-> Please cite this work when using data or figures from this repository.
 
-### How to cite
-**APA-style**
-Dagnaw, M., Poudel, S., Subedi, U., Thapa, R., Reimann, Ł., Appiah, A. N. S., Nuckowski, P. M., Król, M., Brytan, Z., Moelans, N., & Kunwar, A. *Integrating experiments and phase field method through informatics for tailored corrosion performance of additively manufactured steel microstructures*.
 
-**BibTeX**
-```bibtex
-@article{Dagnaw2025Integrating,
-  title   = {Integrating experiments and phase field method through informatics for tailored corrosion performance of additively manufactured steel microstructures},
-  author  = {Dagnaw, Mengistu and Poudel, Sachin and Subedi, Upadesh and Thapa, Rubi and Reimann, Łukasz and Appiah, Augustine Nana Sekyi and Nuckowski, Paweł M. and Król, Mariusz and Brytan, Zbigniew and Moelans, Nele and Kunwar, Anil},
-  journal = {},
-  year    = {},
-  note    = {Full documentation for this repository}
-}
+
 
