@@ -28,3 +28,14 @@ This repo hosts CPP curves and code for samples: AS, SR400/1h, SR450/1h, SR500/1
 
 > Please cite this work when using data or figures from this repository.  
 
+## Full documentation / Associated study
+
+<h3>
+  <a href="https://chemrxiv.org/engage/chemrxiv/article-details/68dafe593e708a7649d4cd0f" style="text-decoration:none; color:inherit;">
+    Integrating experiments and phase field method through informatics for tailored corrosion performance of additively manufactured steel microstructures
+  </a>
+</h3>
+
+**Authors:** **<a href="https://www.linkedin.com/in/mengistu-dagnaw-21a472145/" style="text-decoration:none; color:inherit;">Mengistu Dagnaw</a>**, Sachin Poudel, Upadesh Subedi, Rubi Thapa, Łukasz Reimann, Augustine Nana Sekyi Appiah, Paweł M. Nuckowski, Mariusz Król, Zbigniew Brytan, Nele Moelans, Anil Kunwar.
+
+> Please cite this work when using data or figures from this repository.
