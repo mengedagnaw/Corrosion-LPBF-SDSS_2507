@@ -3,7 +3,7 @@
 This repo hosts CPP curves and code for samples: AS, SR400/1h, SR450/1h, SR500/1h, SR550/1h, SA1100/15min.
 
 ## Repo layout:
-- `data/` — raw/processed CPP data (e.g., `cpp.csv`or .xslsx)
+- `data/` — raw/processed CPP data (e.g., `cpp.csv`or .xlsx)
 - `figures/` — publication-ready plots (PNG
 - `notebooks/` — `cpp.ipynb`
 - `scripts/` — plotting scripts (if any)
