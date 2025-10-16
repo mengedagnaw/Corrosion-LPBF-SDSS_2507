@@ -23,7 +23,7 @@ This repo hosts CPP curves and code for samples: AS, SR400/1h, SR450/1h, SR500/1
   </a>
 </h3>
 
-<hr style="margin:0.75rem 0;" />
+<hr style="border:none;border-top:1px solid #d0d7de;margin:8px 0;" />
 
  **<a href="https://www.linkedin.com/in/mengistu-dagnaw-21a472145/" style="text-decoration:none; color:inherit;">Mengistu Dagnaw</a>**, Sachin Poudel, Upadesh Subedi, Rubi Thapa, Łukasz Reimann, Augustine Nana Sekyi Appiah, Paweł M. Nuckowski, Mariusz Król, Zbigniew Brytan, Nele Moelans, Anil Kunwar.
 
