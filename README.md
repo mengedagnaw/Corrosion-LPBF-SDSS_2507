@@ -8,12 +8,6 @@ This repo hosts CPP curves and code for samples: AS, SR400/1h, SR450/1h, SR500/1
 - `notebooks/` — `cpp.ipynb`
 - `scripts/` — plotting scripts (if any)
 
-## Figure preview
-| Sample | Plot |
-|---|---|
-| AS | ![AS](figures/CPP_AS.png) |
-| SR400/1h | ![SR400/1h](figures/CPP_SR400_1h.png) |
-
 
 **Full documentation / Associated study**— The complete documentation for the methodology and context is provided in:
 
