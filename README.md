@@ -19,7 +19,7 @@ This repo hosts CPP curves and code for samples: AS, SR400/1h, SR450/1h, SR500/1
 
 <h3>
   <a href="https://chemrxiv.org/engage/chemrxiv/article-details/68dafe593e708a7649d4cd0f" style="text-decoration:none; color:inherit;">
-    Integrating experiments and phase field method through informatics for tailored corrosion performance of additively manufactured steel microstructures
+    Integrating experiments and phase field method through informatics for tailored corrosion performance of additively manufactured steel microstructures.
   </a>
 </h3>
 
