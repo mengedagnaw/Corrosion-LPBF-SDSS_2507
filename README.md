@@ -1,11 +1,11 @@
-# This folder is related to the experimental, phase field, informatics, and neural network-based design of Corrosion-Resistant Super Duplex Stainless Steel (UNS S32750 Grade 2507) fabricated via Laser Powder Bed Fusion with 3% Ni addition for  Marine hardwware  
+# This folder is related to the experimental, phase field, informatics, and neural network-based design of Corrosion-Resistant Super Duplex Stainless Steel (UNS S32750 Grade 2507) fabricated via Laser Powder Bed Fusion with 3% Ni addition for  Marine hardware  
 
-This repo hosts CPP curves and code for samples: AS, SR400/1h, SR450/1h, SR500/1h, SR550/1h, SA1100/15min.
+This repository hosts CPP curves and code for the following samples: AS, SR400/1h, SR450/1h, SR500/1h, SR550/1h, and SA1100/15min.
 
 ## Repo layout:
-- `data/` — raw/processed CPP data (e.g., `cpp.csv`or .xlsx)
+- `data/` — raw/processed CPP/EIS data (e.g., `cpp/EIS.csv`or .xlsx)
 - `figures/` — publication-ready plots (PNG)
-- `notebooks/` — `cpp.ipynb`
+- `notebooks/` — `cpp.ipynb`/ 'eis.ipynb
 - `scripts/` — plotting scripts
 
 
