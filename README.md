@@ -5,7 +5,7 @@ This repository hosts CPP curves and code for the following samples: AS, SR400/1
 ## Repo layout:
 - `data/` — raw/processed CPP/EIS data (e.g., `cpp/EIS.csv`or .xlsx)
 - `figures/` — publication-ready plots (PNG)
-- `notebooks/` — `cpp.ipynb`/ 'eis.ipynb
+- `notebooks/` — `cpp.ipynb`/ 'eis.ipynb'
 - `scripts/` — plotting scripts
 
 
